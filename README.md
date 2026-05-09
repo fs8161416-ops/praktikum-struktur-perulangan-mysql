@@ -3,8 +3,8 @@
 ##  Identitas
 
 * **Nama** : Fadhila Suardi
-* **NIM**  : (Isi NIM kamu)
-* **Mata Kuliah** : Basis Data
+* **NIM**  : IK2411018
+* **Mata Kuliah** : Pemrograman Basis Data
 
 ---
 
