@@ -1,4 +1,8 @@
-#  Praktikum Basis Data - Struktur Perulangan MySQL
+#  Praktikum Basis Data
+
+## Struktur Perulangan MySQL (WHILE)
+
+---
 
 ##  Identitas
 
@@ -10,7 +14,7 @@
 
 ##  Deskripsi
 
-Repository ini berisi implementasi **Stored Procedure MySQL** menggunakan perulangan `WHILE`.
+Repository ini berisi implementasi **Stored Procedure MySQL** menggunakan perulangan `WHILE` untuk menyelesaikan beberapa kasus sederhana seperti menampilkan angka dan melakukan perhitungan.
 
 ---
 
@@ -24,10 +28,10 @@ latihan
 
 ##  Daftar Procedure
 
-1. `tampil_angka()` → angka 1–10
-2. `hitung_total()` → total 1–20
-3. `bilangan_genap()` → genap 2–20
-4. `total_belanja()` → sampai 500000
+1. `tampil_angka()` → Menampilkan angka 1–10
+2. `hitung_total()` → Menghitung total 1–20
+3. `bilangan_genap()` → Menampilkan bilangan genap 2–20
+4. `total_belanja()` → Simulasi total hingga 500000
 
 ---
 
@@ -53,10 +57,14 @@ CALL total_belanja();
 
 ##  Tujuan
 
-Memahami:
+* Memahami penggunaan Stored Procedure
+* Menggunakan perulangan `WHILE`
+* Menerapkan logika perulangan dalam MySQL
 
-* Stored Procedure
-* WHILE Loop
-* Logika perulangan di MySQL
+---
+
+##  Kesimpulan
+
+Perulangan `WHILE` pada MySQL dapat digunakan untuk menjalankan proses berulang secara terstruktur dan mempermudah pengolahan data di dalam database.
 
 ---
